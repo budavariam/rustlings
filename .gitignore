@@ -3,9 +3,6 @@ target/
 Cargo.lock
 !/Cargo.lock
 
-# State file
-.rustlings-state.txt
-
 # OS
 .DS_Store
 .direnv/
